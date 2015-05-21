@@ -1,0 +1,36 @@
+
+@import 'more-styles.css';
+
+#second-header {
+	color: white;
+	padding-bottom: 10px;
+	border-bottom: 2px dotted;
+	margin-top: 30px;
+	height: 50px;
+	text-shadow: 3px 3px 4px black;
+}
+
+
+#services-title {
+	float: left;
+	display: block;
+	width: 35%;
+}
+
+#hours-title {
+	float: right;
+	display: block;
+	width: 35%;
+}
+
+#wrapper {
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+
+}
+
+#body-content {
+	background-color: mediumseagreen;
+	padding: 20px;
+}

@@ -1,0 +1,42 @@
+
+body {
+	font: 1.2em/1.5 sans-serif;
+	margin:0;
+	padding: 20px 30px;
+}
+
+h1 {
+	margin-bottom: 30px;
+	padding: 10px;
+	height: 150px;
+}
+
+ul {
+	list-style: none;
+}
+
+#services {
+	color: #40FFBE;
+	background-color: deepskyblue;
+	padding: 20px;
+	list-style-position: inside;
+	width: 35%;
+	float: left;
+	text-shadow: 2px 2px 2px black;
+	font-size: 1.2em;
+}
+
+#hours {
+	color: #40FFBE;
+	background-color: deepskyblue;
+	padding: 20px;
+	list-style-position: inside;
+	width: 35%;
+	float: right;
+	text-shadow: 2px 2px 2px black;
+	font-size: 1.2em;
+}
+
+li {
+	margin-bottom: 6px;
+}
